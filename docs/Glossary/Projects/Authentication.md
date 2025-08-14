@@ -1,0 +1,1 @@
+Keycloak [video series](https://youtube.com/playlist?list=PL9hCPE3AXR1rPTWxzNHNYjMOI5SqB1S_W&si=hvirdUFTSpaHYf3U "https://youtube.com/playlist?list=PL9hCPE3AXR1rPTWxzNHNYjMOI5SqB1S_W&si=hvirdUFTSpaHYf3U")
